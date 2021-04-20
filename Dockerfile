@@ -1,8 +1,8 @@
 # Using Python Slim-Buster
-FROM biansepang/weebproject:buster
+FROM juliansurya/weebproject:buster
 
 # Clone repo and prepare working directory
-RUN git clone -b master https://github.com/BianSepang/WeebProject /home/weebproject/ \
+RUN git clone -b master https://github.com/JulianSurya/WeebProject /home/weebproject/ \
     && chmod 777 /home/weebproject \
     && mkdir /home/weebproject/bin/
 
