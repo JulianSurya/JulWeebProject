@@ -199,3 +199,15 @@ async def gablist(event):
             await event.delete()
     else:
         await event.edit(GBANNED_LIST)
+
+CMD_HELP.update(
+    {
+        "gban": ">`.gban <id/username> <reason>`"
+        "\nUsage: Globally bans user from your account."
+        "\nYou can reply to the user whom you want to gban or manually pass the username/id."
+        "\n\n`>.ungban <id/username> <reason>`"
+        "\nUsage: Same as gban but unbans the user"
+        "\n\n>`.listgban`"
+        "\nUsage: Lists all account who got gbanned by specified id."
+    }
+)
