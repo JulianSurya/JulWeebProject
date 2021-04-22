@@ -1,5 +1,5 @@
 # Using Python Slim-Buster
-FROM juliansurya/weebproject:buster
+FROM biansepang/weebproject:buster
 
 # Clone repo and prepare working directory
 RUN git clone -b master https://github.com/JulianSurya/WeebProject /home/weebproject/ \
