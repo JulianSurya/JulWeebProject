@@ -1,3 +1,4 @@
+aiofile
 aiohttp[speedups]
 appdirs
 aria2p
@@ -31,7 +32,6 @@ lottie
 lxml
 lyricsgenius
 natsort
-nekos.py
 oauth2client
 pendulum
 Pillow
