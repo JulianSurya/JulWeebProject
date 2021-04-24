@@ -1,6 +1,6 @@
 {
-  "name": "WeebProject UserBot",
-  "description": "[WeebProject] A modular Telegram userbot running on Python 3.8",
+  "name": "JulWeebProject UserBot",
+  "description": "[JulWeebProject] A modular Telegram userbot running on Python 3.8",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,7 +8,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/BianSepang/WeebProject",
+  "repository": "https://github.com/JulianSurya/JulWeebProject",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
   "stack": "container",
   "env": {
@@ -19,7 +19,7 @@
     "ALIVE_LOGO": {
       "description": "Show Image/Logo in .alive message. Fill value of image your link image, use telegra.ph or any direct link image",
       "required": false
-    },  	
+    },
     "API_KEY": {
       "description": "Get this value from my.telegram.org.",
       "required": true
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/BianSepang/WeebProject",
+      "value": "https://github.com/JulianSurya/JulWeebProject",
       "required": false
     },
     "COUNTRY": {
@@ -156,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "WeebProject",
+      "value": "JulWeebProject",
       "required": false
     }
   },

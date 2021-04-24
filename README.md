@@ -1,11 +1,11 @@
-# WeebProject Userbot
+# JulWeebProject Userbot
 
 <p align="center">
-    <a href="https://app.codacy.com/gh/BianSepang/WeebProject/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/BianSepang/WeebProject/stargazers"> <img src="https://img.shields.io/github/stars/BianSepang/WeebProject?logo=github&style=flat-square" alt="Stars" /></a>
-    <a href="https://github.com/BianSepang/WeebProject/network/members"> <img src="https://img.shields.io/github/forks/BianSepang/WeebProject?logo=github&style=flat-square" alt="Forks" /></a>
-    <a href="https://github.com/BianSepang/WeebProject/watchers"> <img src="https://img.shields.io/github/watchers/BianSepang/WeebProject?logo=github&style=flat-square" alt="Watch" /></a><br>
-    <a href="https://github.com/BianSepang/WeebProject/graphs/contributors"> <img src="https://img.shields.io/github/contributors/BianSepang/WeebProject?color=blue&style=flat-square" alt="Contributors" /></a>
+    <a href="https://app.codacy.com/gh/JulianSurya/JulWeebProject/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/JulianSurya/JulWeebProject/stargazers"> <img src="https://img.shields.io/github/stars/JulianSurya/JulWeebProject?logo=github&style=flat-square" alt="Stars" /></a>
+    <a href="https://github.com/JulianSurya/JulWeebProject/network/members"> <img src="https://img.shields.io/github/forks/JulianSurya/JulWeebProject?logo=github&style=flat-square" alt="Forks" /></a>
+    <a href="https://github.com/JulianSurya/JulWeebProject/watchers"> <img src="https://img.shields.io/github/watchers/JulianSurya/JulWeebProject?logo=github&style=flat-square" alt="Watch" /></a><br>
+    <a href="https://github.com/JulianSurya/JulWeebProject/graphs/contributors"> <img src="https://img.shields.io/github/contributors/JulianSurya/JulWeebProject?color=blue&style=flat-square" alt="Contributors" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?label=telethon&logo=pypi&logoColor=white&style=flat-square" /></a>
 </p>
 
@@ -32,7 +32,7 @@ based on [ProjectBish](https://github.com/adekmaulana/ProjectBish) Userbot
 ## Deploy
 ### Heroku
 Click this button below to Deploy to Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/BianSepang/WeebProject/tree/master"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/JulianSurya/JulWeebProject/tree/master"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
 
 ### "Bare hands", using Git and Python3 -- on (Linux, macOS, and Android [via Termux])
 1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
@@ -56,7 +56,7 @@ Click this button below to Deploy to Heroku
 * [Alfianandaa](https://github.com/alfianandaa) - ProjectAlf
 * [GengKapak](https://github.com/GengKapak) - DCLXVI
 
-and [everyone](https://github.com/BianSepang/WeebProject/graphs/contributors) that makes this userbot awesome :D
+and [everyone](https://github.com/JulianSurya/JulWeebProject/graphs/contributors) that makes this userbot awesome :D
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/BianSepang/WeebProject/blob/master/LICENSE) - Version 1.d, February 2020
+Licensed under [Raphielscape Public License](https://github.com/JulianSurya/JulWeebProject/blob/master/LICENSE) - Version 1.d, February 2020
